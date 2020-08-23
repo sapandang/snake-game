@@ -6,4 +6,6 @@ moved this from my first blog. Earlier code was in dropbox. Haven't know about g
 * http://hexgears.blogspot.com/2013/08/snake-game-in-c-part-1.html
 * http://hexgears.blogspot.com/2013/12/snake-game-in-c-part-2.html
 
+![Alt text](/img/image001.png "Game Screenshot")
+
 
