@@ -1,0 +1,5 @@
+snake game 
+author-SKD
+2013
+
+Use this for educational purpose only
